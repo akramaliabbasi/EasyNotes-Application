@@ -31,3 +31,4 @@ $> make compose_clean
 $> make k8s_deploy
 $> make k8s_clean
 ```
+5. Use Posman and import the Collection
